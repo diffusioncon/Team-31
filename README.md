@@ -1,4 +1,3 @@
-### Give it a spin:
-## `yarn start`
+### Give it a spin!
 
 Available on the ropsten testnet!
